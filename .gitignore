@@ -1,0 +1,4 @@
+/account/__pycache__
+/bookmarks/__pycache__
+/account/migrations/__pycache__
+db.sqlite3
