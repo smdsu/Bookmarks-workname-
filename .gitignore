@@ -2,3 +2,4 @@
 /bookmarks/__pycache__
 /account/migrations/__pycache__
 db.sqlite3
+.env
